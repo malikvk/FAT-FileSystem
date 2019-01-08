@@ -1,0 +1,5 @@
+rm Drive10MB
+
+cp ../Drive10MB .
+
+ 
